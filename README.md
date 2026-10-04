@@ -9,13 +9,13 @@ Think of it as notes but in your terminal. You can store commands, keys, random 
 ### With Golang
 
 ```sh
-go install github.com/kkrishguptaa/mnemo
+go install github.com/ikrishg/mnemo
 ```
 
 ### Without Golang
 
-1. Download the release file from the [latest release](https://github.com/kkrishguptaa/mnemo/releases/latest)
-  ![kkrishguptaa/mnemo's github releases](https://github.com/user-attachments/assets/72c56637-bef7-48ee-80d4-902bd828c55f)
+1. Download the release file from the [latest release](https://github.com/ikrishg/mnemo/releases/latest)
+  ![ikrishg/mnemo's github releases](https://github.com/user-attachments/assets/72c56637-bef7-48ee-80d4-902bd828c55f)
 1. Place it in any folder under `$PATH`
 
 ## ✌️ Usage
