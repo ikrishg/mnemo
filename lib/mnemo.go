@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/gtank/cryptopasta"
-	"github.com/kkrishguptaa/mnemo/util"
+	"github.com/ikrishg/mnemo/util"
 )
 
 type Store struct {

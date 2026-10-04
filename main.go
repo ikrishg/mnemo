@@ -16,7 +16,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 package main
 
-import "github.com/kkrishguptaa/mnemo/cmd"
+import "github.com/ikrishg/mnemo/cmd"
 
 func main() {
 	cmd.Execute()

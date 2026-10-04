@@ -22,7 +22,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/kkrishguptaa/mnemo/util"
+	"github.com/ikrishg/mnemo/util"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

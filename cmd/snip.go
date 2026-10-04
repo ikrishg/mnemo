@@ -22,8 +22,8 @@ import (
 	"strings"
 
 	"github.com/charmbracelet/lipgloss"
-	"github.com/kkrishguptaa/mnemo/lib"
-	"github.com/kkrishguptaa/mnemo/util"
+	"github.com/ikrishg/mnemo/lib"
+	"github.com/ikrishg/mnemo/util"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

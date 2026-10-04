@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Source: https://gist.github.com/xkrishguptaa/3c633f4c75f2b319e18880f3b68b1d23#file-go-application-builder-bash
+# Source: https://gist.github.com/ikrishg/3c633f4c75f2b319e18880f3b68b1d23#file-go-application-builder-bash
 
 ### Helper functions ###
 
